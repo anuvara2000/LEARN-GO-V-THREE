@@ -6,7 +6,11 @@ import (
 	"github.com/anuvara2000/puppy"
 )
 func main() {
-	puppy.From10()
+
+	puppy.Form11()
+	puppy.Form12()
+	puppy.Form13()
+
       s1 :=puppy.Bark()
 	  s2 :=puppy.Barks()
 	  fmt.Println(s1)
