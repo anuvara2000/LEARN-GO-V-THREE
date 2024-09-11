@@ -2,5 +2,7 @@ github.com/anuvara2000/dog v0.0.0-20240904072408-3b23bee97b3b h1:W0bxGLFpHy/ji4t
 github.com/anuvara2000/dog v0.0.0-20240904072408-3b23bee97b3b/go.mod h1:su/9+1ZOUuulYUn3mYrwpGaFaNB2gJ8gru7icSo19A0=
 github.com/anuvara2000/puppy v0.0.0-20240905080924-1e6cbd9ab34a h1:22/Ze+e9BnaehohktmZN/3M3ad+JPU6enDbuNAfG4Fo=
 github.com/anuvara2000/puppy v0.0.0-20240905080924-1e6cbd9ab34a/go.mod h1:2S+xgcV8SNAv9pUXQ4CSd7RLK/ft5CUghrHSaXZvncg=
+github.com/anuvara2000/puppy v1.2.0 h1:ibNhQdLVvhugCHyPozwVBa52UHHxKGoreg6HfMMZ5cA=
+github.com/anuvara2000/puppy v1.2.0/go.mod h1:2S+xgcV8SNAv9pUXQ4CSd7RLK/ft5CUghrHSaXZvncg=
 github.com/anuvara2000/puppy v1.3.0 h1:4Jl4rRItv9CEPzA3apoOh0YKCpp5FJBeOmNHsPSKJV4=
 github.com/anuvara2000/puppy v1.3.0/go.mod h1:2S+xgcV8SNAv9pUXQ4CSd7RLK/ft5CUghrHSaXZvncg=
